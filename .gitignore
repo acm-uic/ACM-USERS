@@ -102,3 +102,6 @@ ENV/
 
 # visual studio code 
 .vscode/
+
+# ignore osx files
+.DS_Store
